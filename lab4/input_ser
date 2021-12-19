@@ -1,0 +1,425 @@
+LED0: gray
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: green
+LED1: green
+LED2: green
+LED3: gray
+
+LED0: green
+LED1: green
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: gray
+
+LED0: gray
+LED1: gray
+LED2: green
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: gray
+
+LED0: gray
+LED1: green
+LED2: gray
+LED3: green
+
+LED0: gray
+LED1: green
+LED2: green
+LED3: gray
+
